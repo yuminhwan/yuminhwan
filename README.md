@@ -6,7 +6,6 @@
 </p>
 <br> 
 
-<br>
 <h2 align="center">⛏️ Tech Skils</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
