@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Yu%20Minhwan%20👋&fontSize=70&fontColor=1C1C1C&animation=fadeIn&descAlign=20)
-
-<br>
 <h2 align="center">👋 About Me</h2>
 <p align="center">
     <b>I'm Yu Minhwan!</b></br></br>
