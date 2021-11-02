@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Yu%20MinHwan%20👋&fontSize=70&fontColor=1C1C1C&animation=fadeIn&descAlign=20)
 
 <!--
 **yuminhwan/yuminhwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
